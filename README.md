@@ -8,7 +8,7 @@
 4. What PoX is NOT 
 5. Conceptual Flow
 6. Conceptual Model
-7. Key Concepts(Notion上リンク)
+7. Key Concepts(Notion)
 8. Open Questions & Future Exploration
 9. Status
 
